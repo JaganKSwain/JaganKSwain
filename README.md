@@ -158,8 +158,37 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.47%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 16/07/2026 19:42:53 UTC
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   57 commits          ██████████████░░░░░░░░░░░   55.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
+Markdown                 1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.90 % 
+Python                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Git Config               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+
+🔥 Editors: 
+Antigravity IDE          5 hrs               ███████████████████████░░   90.58 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+```
+
+
+ Last Updated on 17/07/2026 19:41:37 UTC
 <!--END_SECTION:waka-->
 
 ---
