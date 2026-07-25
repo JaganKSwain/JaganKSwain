@@ -154,12 +154,43 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.16%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 24/07/2026 19:57:14 UTC
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Sunday                   57 commits          █████████████░░░░░░░░░░░░   51.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        2 hrs 30 mins       ███████████████░░░░░░░░░░   61.71 % 
+Git Config               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+XML                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Logos                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+
+🔥 Editors: 
+Antigravity IDE          3 hrs 27 mins       █████████████████████░░░░   84.84 % 
+Codex CLI                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+```
+
+
+ Last Updated on 25/07/2026 19:45:33 UTC
 <!--END_SECTION:waka-->
 
 ---
