@@ -154,7 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
@@ -189,8 +191,31 @@ Codex CLI                25 mins             ███░░░░░░░░�
 VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:45:37 UTC
+```text
+⏱ AI Coding Time: 3 hrs 53 mins (95.88%)
+
+✍️ 423 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,522,440 Input Tokens, 12,314 Output Tokens
+
+💵 $17.98 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 49 AI Prompts
+
+Gemini                   445 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,157 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 20:06:54 UTC
 <!--END_SECTION:waka-->
 
 ---
