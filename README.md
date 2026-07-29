@@ -154,12 +154,68 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.16%20million%20lines%20of%20code-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 28/07/2026 20:03:39 UTC
+```text
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Tuesday                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Sunday                   57 commits          █████████████░░░░░░░░░░░░   51.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        1 hr 14 mins        █████████████░░░░░░░░░░░░   52.50 % 
+Git Config               26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Logos                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+
+🔥 Editors: 
+Antigravity IDE          1 hr 44 mins        ██████████████████░░░░░░░   73.79 % 
+Codex CLI                25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 11 mins (93.03%)
+
+✍️ 116 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,522,440 Input Tokens, 12,314 Output Tokens
+
+💵 $17.98 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 24 AI Prompts
+
+Gemini                   132 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 650 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 19:54:36 UTC
 <!--END_SECTION:waka-->
 
 ---
