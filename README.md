@@ -158,7 +158,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -179,43 +179,39 @@ Sunday                   57 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 14 mins        █████████████░░░░░░░░░░░░   52.50 % 
-Git Config               26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Logos                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Makefile                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+C                        2 mins              ██████████████████░░░░░░░   73.26 % 
+XML                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 44 mins        ██████████████████░░░░░░░   73.79 % 
-Codex CLI                25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Antigravity IDE          3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (93.03%)
+⏱ AI Coding Time: 3 mins (100.0%)
 
-✍️ 116 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,522,440 Input Tokens, 12,314 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $17.98 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 24 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Gemini                   132 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 650 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 104 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:54:36 UTC
+ Last Updated on 30/07/2026 20:04:37 UTC
 <!--END_SECTION:waka-->
 
 ---
