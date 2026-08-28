@@ -154,9 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -179,20 +179,42 @@ Sunday                   57 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 31 mins       █████████████████░░░░░░░░   66.28 % 
+Markdown                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 18 mins       ███████████████░░░░░░░░░░   60.85 % 
+Antigravity IDE          1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 48 mins (100.0%)
+
+✍️ 3,142 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,486,185 Input Tokens, 201,343 Output Tokens
+
+💵 $29.52 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 53 AI Prompts
+
+Opus                     3,161 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,041 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 20:40:43 UTC
+ Last Updated on 28/08/2026 02:17:39 UTC
 <!--END_SECTION:waka-->
 
 ---
