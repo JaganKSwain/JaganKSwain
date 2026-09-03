@@ -179,42 +179,36 @@ Sunday                   57 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 38 mins       █████████████████░░░░░░░░   68.37 % 
-Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 13 mins             ████████████████████░░░░░   80.07 % 
+Python                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 18 mins       ███████████████░░░░░░░░░░   59.84 % 
-Antigravity IDE          1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.11 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Copilot CLI              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Antigravity IDE          13 mins             ████████████████████░░░░░   80.07 % 
+Copilot CLI              3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (98.35%)
+⏱ AI Coding Time: 13 mins (77.37%)
 
-✍️ 3,142 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,486,185 Input Tokens, 201,343 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $29.52 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 53 AI Prompts
-
-Opus                     3,161 lines         █████████████████████████   100.00 % 
+🧠 3 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,041 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 5,359 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:13:12 UTC
+ Last Updated on 03/09/2026 21:15:48 UTC
 <!--END_SECTION:waka-->
 
 ---
