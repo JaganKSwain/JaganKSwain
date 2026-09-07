@@ -154,9 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -179,46 +179,48 @@ Sunday                   70 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 56 mins       ███████████████░░░░░░░░░░   60.23 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               7 hrs 23 mins       ███████████████░░░░░░░░░░   58.76 % 
+Markdown                 3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 1 min         █████████████████████░░░░   85.41 % 
-Claude Code              1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Antigravity IDE          11 hrs 15 mins      ██████████████████████░░░   89.44 % 
+Claude Code              1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Copilot CLI              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 51 mins (95.6%)
+⏱ AI Coding Time: 12 hrs 5 mins (96.05%)
 
-✍️ 6,136 lines written by AI, 3 lines written by hand (99.95% AI-written)
+✍️ 7,888 lines written by AI, 4 lines written by hand (99.95% AI-written)
 
 🔤 563,648 Input Tokens, 67,672 Output Tokens
 
 💵 $7.99 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 76 AI Prompts
+🧠 14 AI Sessions, 105 AI Prompts
 
-Opus                     3,557 lines         ██████████████░░░░░░░░░░░   55.83 % 
-Gemini                   1,969 lines         ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Composer                 700 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Sonnet                   145 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Gemini                   3,775 lines         ████████████░░░░░░░░░░░░░   46.00 % 
+Opus                     3,557 lines         ███████████░░░░░░░░░░░░░░   43.35 % 
+Composer                 700 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Sonnet                   145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+GPT                      29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 3,245 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 2,392 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 20:42:42 UTC
+ Last Updated on 07/09/2026 21:44:11 UTC
 <!--END_SECTION:waka-->
 
 ---
