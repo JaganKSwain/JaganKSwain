@@ -179,48 +179,42 @@ Sunday                   70 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 23 mins       ███████████████░░░░░░░░░░   59.06 % 
-Markdown                 3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               2 hrs 26 mins       ██████████████░░░░░░░░░░░   55.99 % 
+Markdown                 1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Prisma                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 11 mins      ██████████████████████░░░   89.39 % 
-Claude Code              1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Copilot CLI              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Antigravity IDE          4 hrs 14 mins       ████████████████████████░   97.03 % 
+Copilot CLI              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 4 mins (96.5%)
+⏱ AI Coding Time: 4 hrs 13 mins (96.89%)
 
-✍️ 7,906 lines written by AI, 5 lines written by hand (99.94% AI-written)
+✍️ 1,752 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 563,648 Input Tokens, 67,672 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $7.99 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 104 AI Prompts
+🧠 3 AI Sessions, 29 AI Prompts
 
-Gemini                   3,793 lines         ████████████░░░░░░░░░░░░░   46.12 % 
-Opus                     3,557 lines         ███████████░░░░░░░░░░░░░░   43.25 % 
-Composer                 700 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Sonnet                   145 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-GPT                      29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Gemini                   1,806 lines         █████████████████████████   98.42 % 
+GPT                      29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,261 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+📝 Concise Prompter — average 158 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 20:50:10 UTC
+ Last Updated on 13/09/2026 21:03:58 UTC
 <!--END_SECTION:waka-->
 
 ---
