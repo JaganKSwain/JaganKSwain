@@ -154,9 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -179,36 +179,41 @@ Sunday                   70 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Batchfile                31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+JavaScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 26 mins       █████████████████████████   98.25 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 18 mins (93.03%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 8,701 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 9,794,698 Input Tokens, 255,749 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $8.31 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 28 AI Prompts
 
-Gemini                   83 lines            █████████████████████████   100.00 % 
+Gemini                   8,809 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 6,053 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,545 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 21:25:15 UTC
+ Last Updated on 27/09/2026 21:32:14 UTC
 <!--END_SECTION:waka-->
 
 ---
