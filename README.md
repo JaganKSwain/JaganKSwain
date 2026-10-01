@@ -154,9 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -212,7 +212,7 @@ Gemini                   10,184 lines        ███████████�
 ```
 
 
- Last Updated on 30/09/2026 22:31:01 UTC
+ Last Updated on 01/10/2026 22:51:44 UTC
 <!--END_SECTION:waka-->
 
 ---
