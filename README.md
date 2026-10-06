@@ -154,9 +154,9 @@
 ### 💻 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -179,40 +179,40 @@ Sunday                   70 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Git Config               26 mins             ████████████░░░░░░░░░░░░░   46.01 % 
-Markdown                 23 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Markdown                 37 mins             ███████████░░░░░░░░░░░░░░   45.00 % 
+Git Config               26 mins             ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-Antigravity IDE          58 mins             █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (96.82%)
+⏱ AI Coding Time: 1 hr 20 mins (96.19%)
 
-✍️ 1,373 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,661 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,913,008 Input Tokens, 138,008 Output Tokens
+🔤 4,410,569 Input Tokens, 182,560 Output Tokens
 
-💵 $3.42 Estimated AI Cost This Week
+💵 $3.96 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
-Gemini                   1,458 lines         █████████████████████████   100.00 % 
+Gemini                   2,746 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
+📝 Concise Prompter — average 125 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 21:50:17 UTC
+ Last Updated on 06/10/2026 00:15:53 UTC
 <!--END_SECTION:waka-->
 
 ---
