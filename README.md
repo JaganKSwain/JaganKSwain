@@ -179,40 +179,39 @@ Sunday                   70 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Markdown                 30 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
-Git Config               26 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
-Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Markdown                 14 mins             ██████████████░░░░░░░░░░░   57.85 % 
+Text                     8 mins              █████████░░░░░░░░░░░░░░░░   35.12 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 10 mins        █████████████████████████   100.00 % 
+Antigravity IDE          25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (97.13%)
+⏱ AI Coding Time: 24 mins (94.73%)
 
-✍️ 1,775 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,288 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,920,366 Input Tokens, 120,606 Output Tokens
+🔤 497,561 Input Tokens, 44,552 Output Tokens
 
-💵 $3.36 Estimated AI Cost This Week
+💵 $1.84 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Gemini                   1,860 lines         █████████████████████████   100.00 % 
+Gemini                   1,380 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 115 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 22:45:36 UTC
+ Last Updated on 07/10/2026 23:16:15 UTC
 <!--END_SECTION:waka-->
 
 ---
